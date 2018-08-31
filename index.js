@@ -20,7 +20,7 @@ console.log( multiply(5.0 / 2.5));
 
 function inc(a + 1) {
 var number = 5;
-number++;
+return number++;
 }
 console.log(inc(a + 1));
 
