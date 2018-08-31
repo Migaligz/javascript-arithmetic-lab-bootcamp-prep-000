@@ -18,9 +18,7 @@ function divide(a, b) {
 }
 console.log( multiply(5.0 / 2.5));
 
-var number = 5
-function number() {
-  return number++;
-}
-console.log (number(6));
+var i = 0;
+++i;
+console.log(i == 1); // true
   
