@@ -20,6 +20,6 @@ console.log( multiply(5.0 / 2.5));
 
 var number = 5;
 number++;
-console.log(number == 1); // true
+
 
   
