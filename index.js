@@ -18,9 +18,11 @@ function divide(a, b) {
 }
 console.log( multiply(5.0 / 2.5));
 
+function inc(a + 1) {
 var number = 5;
 number++;
-console.log(number == 1);
+}
+console.log(inc(a + 1));
 
 
 
