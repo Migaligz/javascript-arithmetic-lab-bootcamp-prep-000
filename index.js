@@ -18,8 +18,8 @@ function divide(a, b) {
 }
 console.log( multiply(5.0 / 2.5));
 
-var number = 5;
-number++;
+var a = 5;
+a++;
 
 
   
